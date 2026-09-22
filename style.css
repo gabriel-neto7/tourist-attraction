@@ -1,0 +1,56 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+:root {
+    font-family: "Open Sans", sans-serif;
+}
+
+body {
+    background-color: #F5F4F0;
+}
+
+h1 {
+    font-size: 36px;
+    font-weight: bold;
+    color: #1B1B1B;
+}
+
+h2 {
+    font-size: 32px;
+    font-weight: bold;
+}
+
+h3 {
+    font-size: 28px;
+    font-weight: bold;
+}
+
+.headline {
+    font-size: 16px;
+    font-weight: bold;
+    color: #E1624F;
+}
+
+.opening img {
+    width: 1120px;
+    height: 660px;
+}
+
+.subtitle {
+    font-size: 16px;
+    font-style: italic;
+    color: #333333;
+    border-bottom: #D9D9D9 solid 1px;
+}
+
+.destinations {
+
+}
+
+p {
+    font-size: 16px;
+    font-weight: regular;
+}
+
