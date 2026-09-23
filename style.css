@@ -7,9 +7,10 @@
     font-family: "Open Sans", sans-serif;
 }
 
-body {
+.box {
     background-color: #F5F4F0;
-
+    width: 1280px;
+    height: 3279px;
 }
 
 img {
